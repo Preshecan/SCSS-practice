@@ -1,3 +1,18 @@
+﻿/------------------------------------------------------------------------------------/
+
+Project deployed at: https://preshecan.github.io/SCSS-practice/
+
+SCSS practice:
+
+Some css grid, use of functions and a mixin for media queries
+
+/------------------------------------------------------------------------------------/
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
